@@ -1,4 +1,4 @@
-# Mtk Easy Su
+world fixer
 
 [![](https://img.shields.io/github/downloads/JunioJsv/mtk-easy-su/total.svg)](https://github.com/JunioJsv/mtk-easy-su/releases/)
 [![](https://img.shields.io/badge/maintained-maybe-yellow.svg)](https://github.com/JunioJsv/mtk-easy-su)
